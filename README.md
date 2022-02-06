@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehul Sharma
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Data Science and Mchine Learning
+- 👀 I’m interested in Deep Learning
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me - sharma.mehul0911@gmail.com
 
